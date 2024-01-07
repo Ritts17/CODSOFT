@@ -1,5 +1,5 @@
 # CODSOFT
-The Repository contains list of 3 tasks which are:
-Task 1. NUMBER GUESSING GAME
-Task 2. SIMPLE CALCULATOR
-Task 3. TO-DO LIST
+The Repository contains a list of 3 tasks which are:
+1. NUMBER GUESSING GAME
+2. SIMPLE CALCULATOR
+3. TO-DO LIST
